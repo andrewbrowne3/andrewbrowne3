@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Andrew I am a PhD Candidate in Chemistry and I love to code!
+My name is Andrew I have a PhD in chemistry and I love to code!
 
 - 🔭 I’m currently working on an interactive LMS to help gamify learning - https://thestemcenter.org
 - 🌱 I’m currently learning broad aspects machine learning
